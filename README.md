@@ -1,4 +1,4 @@
-# horariosIA
+
 # Estructura y Arquitectura del Planificador de Horarios IA
 
 ## 1. 🧠 Base de Conocimiento (`base_conocimiento.py`)
